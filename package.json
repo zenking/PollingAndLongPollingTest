@@ -1,0 +1,10 @@
+{
+  "name": "polling",
+  "description": "polling and long polling",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.*",
+    "body-parser" :  "1.*"
+  }
+}
